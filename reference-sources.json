@@ -1,0 +1,25 @@
+{
+  "retrieved": "2026-11-17",
+  "sources": [
+    {
+      "repository": "MicrosoftDocs/office-docs-powershell",
+      "commit": "8a5961e5af2366fd7c2fdc6f84463450dce3102f",
+      "date": "2026-11-17T01:01:00Z"
+    },
+    {
+      "repository": "MicrosoftDocs/OfficeDocs-SharePoint-PowerShell",
+      "commit": "8bc07bfbcf00fff7846acccefdfc8229fcdb9fde",
+      "date": "2026-11-17T01:56:54Z"
+    },
+    {
+      "repository": "Azure/azure-docs-powershell-azuread",
+      "commit": "693b89e07c621ddc4d4202e3bfcd12d88fc43932",
+      "date": "2026-07-21T16:10:07Z"
+    },
+    {
+      "repository": "MicrosoftDocs/windows-powershell-docs",
+      "commit": "2029b4982aec04afffb01de06fe909997992d3ed",
+      "date": "2026-11-12T12:34:46Z"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "indexedDate": "2026-11-17",
+  "entries": 3079,
+  "uniqueNames": 2850,
+  "modules": {
+    "exchangepowershell": 1438,
+    "microsoftteams": 621,
+    "microsoft.online.sharepoint.powershell": 329,
+    "activedirectory": 151,
+    "azuread": 230,
+    "azureadpreview": 310
+  },
+  "workloads": {
+    "Active Directory": 151,
+    "AzureAD (legacy)": 230,
+    "AzureADPreview (legacy)": 310,
+    "Exchange Online": 731,
+    "Exchange Online module (V2/V3)": 35,
+    "Exchange Server": 896,
+    "OneDrive": 40,
+    "Security & Compliance (IPPS)": 276,
+    "SharePoint Online": 329,
+    "Teams": 621
+  },
+  "primaryAreas": {
+    "Active Directory": 151,
+    "AzureAD (legacy)": 230,
+    "AzureADPreview (legacy)": 310,
+    "Exchange Online": 344,
+    "Exchange Server": 509,
+    "Exchange Server + Online": 387,
+    "Security & Compliance (IPPS)": 198,
+    "SharePoint Online": 329,
+    "Teams": 621
+  }
+}
